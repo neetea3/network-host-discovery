@@ -28,7 +28,6 @@ The main script for this project is:
 The first version of the script accepted user input and generated network addresses.
 
 ![Initial Script](Screenshot%20(634).png)
-<img width="649" height="618" alt="Screenshot 2026-06-03 232540" src="https://github.com/user-attachments/assets/21c1043a-8cca-4592-9234-0814d977ee80" />
 
 ---
 
@@ -37,7 +36,7 @@ The first version of the script accepted user input and generated network addres
 During development, several Python errors were identified and corrected, including NameError and IndentationError issues.
 
 ![Debugging](Screenshot%20(635).png)
-<img width="1920" height="1080" alt="Screenshot (635)" src="https://github.com/user-attachments/assets/ae6e747a-4dec-4fdc-9997-3d848edbc8c7" />
+
 
 
 ---
@@ -47,7 +46,7 @@ During development, several Python errors were identified and corrected, includi
 Completed version of the host discovery script showing user input handling, host generation, list storage, and host counting.
 
 ![Final Code](Screenshot%20(640).png)
-<img width="1920" height="1080" alt="Screenshot (640)" src="https://github.com/user-attachments/assets/cdb40913-35e8-4f98-b6e7-e5f4c86c73c5" />
+
 
 
 ---
@@ -57,7 +56,7 @@ Completed version of the host discovery script showing user input handling, host
 The script successfully generates hosts within a specified range and displays the total number of hosts found.
 
 ![Output](Screenshot%20(641).png)
-<img width="1920" height="1080" alt="Screenshot (641)" src="https://github.com/user-attachments/assets/40f81867-85e2-4de0-ab41-077daae63d61" />
+
 
 
 ---
@@ -67,7 +66,7 @@ The script successfully generates hosts within a specified range and displays th
 Enhanced version displaying discovered hosts using status indicators and maintaining a generated host list.
 
 ![Enhanced Output](Screenshot%20(642).png)
-<img width="1920" height="1080" alt="Screenshot (642)" src="https://github.com/user-attachments/assets/ef974d02-52a4-4180-a46b-1bb2bc14627b" />
+
 
 
 ---
