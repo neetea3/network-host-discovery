@@ -16,7 +16,7 @@ A Python project that generates and tracks IP addresses within a specified host 
 - Kali Linux
 
 ## Screenshots
-https://github.com/neetea3/network-host-discovery/blob/main/Screenshot%20(634).png
+
 ### Script Development
 ![Development](screenshots/development.png)
 
